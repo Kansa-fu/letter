@@ -31,7 +31,7 @@ msgstr "メールの閲覧と送信をします"
 #. Translators: Search terms to find this application. Do not translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/io.github.stalvatero.Letter.desktop.in.in:12
 msgid "email;mail;imap;google;outlook;exchange;"
-msgstr "email;電子メール;mail;imap;google;outlook;exchange;"
+msgstr "email;mail;imap;google;outlook;exchange;"
 
 #: data/io.github.stalvatero.Letter.desktop.in.in:20 src/window.blp:242
 #: src/compose-dialog.vala:77
