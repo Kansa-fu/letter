@@ -1370,6 +1370,15 @@ msgstr "すべての添付ファイルを保存"
 msgid "View Image"
 msgstr "画像を表示"
 
+msgid "Save Image As…"
+msgstr "名前を付けて画像を保存…"
+
+msgid "Forward Image"
+msgstr "画像を転送"
+
+msgid "Save Image"
+msgstr "画像を保存"
+
 #: src/message-reader.vala:935
 msgid "Write to"
 msgstr "メッセージを送信:"
@@ -1904,6 +1913,45 @@ msgstr "会話"
 #: src/preferences-dialog.vala:111
 msgid "Group related messages into threads."
 msgstr "メッセージをスレッドごとにまとめます。"
+
+msgid "Appearance"
+msgstr "外観"
+
+msgid "Application theme"
+msgstr "アプリケーションのテーマ"
+
+msgid "Choose your personal experience."
+msgstr "お好みに合わせたテーマを選択できます。"
+
+msgid "Light"
+msgstr "明るいスタイル"
+
+msgid "Dark"
+msgstr "暗いスタイル"
+
+msgid "Reading mode"
+msgstr "閲覧時のモード"
+
+msgid "Choose the background colour of the message body."
+msgstr "メッセージ本文の背景色を選択できます。"
+
+msgid "Always light"
+msgstr "常に明るいスタイル"
+
+msgid "Follow system"
+msgstr "システムのスタイルに従う"
+
+msgid "Accounts rail"
+msgstr "アカウントバー"
+
+msgid "Customise the account sidebar."
+msgstr "アカウントのサイドバーをカスタマイズできます。"
+
+msgid "Theme colour"
+msgstr "テーマカラー"
+
+msgid "Hide"
+msgstr "隠す"
 
 #: src/preferences-dialog.vala:120 src/preferences-dialog.vala:123
 #: src/preferences-dialog.vala:272
