@@ -2241,7 +2241,7 @@ msgstr ""
 
 #: src/signature-editor.vala:200
 msgid "Default for new messages. Click to stop using it automatically."
-msgstr "新規メッセージのデフォルト設定です。クリックすることで、自動での仕様を停止できます。"
+msgstr "新規メッセージのデフォルト設定です。クリックすることで、自動での使用を停止できます。"
 
 #: src/signature-editor.vala:201
 msgid "Use as the default for new messages from this account"
