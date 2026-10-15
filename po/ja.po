@@ -548,7 +548,7 @@ msgstr "送信したメッセージは、送信できるまでここに保存さ
 #, c-format
 msgid "%u more new message"
 msgid_plural "%u more new messages"
-msgstr[0] "新しいメッセージがさらに%u»件あります"
+msgstr[0] "新しいメッセージがさらに%u件あります"
 
 #: src/window.vala:5970 src/window.vala:6665 src/window.vala:7383
 #: src/conversation.vala:162 src/conversation.vala:429
@@ -1605,7 +1605,7 @@ msgstr "文字の色"
 
 #: src/compose-dialog.vala:1179
 msgid "No Highlight"
-msgstr "No Highlight"
+msgstr "ハイライトなし"
 
 #: src/compose-dialog.vala:1179 src/format-toolbar.vala:191
 msgid "Default Color"
@@ -2180,7 +2180,7 @@ msgstr "まずLetterのウィンドウを開いてから、もう一度試して
 #, c-format
 msgid "Local library cleared. Letter is rebuilding “%s”."
 msgstr ""
-"ローカルライブラリの安全が確認されました。現在、「%s」の再構築が進行中です。"
+"ローカルライブラリがリセットされました。現在、「%s」の再構築が進行中です。"
 
 #: src/preferences-dialog.vala:574
 msgid "No notification sound."
@@ -2241,7 +2241,7 @@ msgstr ""
 
 #: src/signature-editor.vala:200
 msgid "Default for new messages. Click to stop using it automatically."
-msgstr "Default for new messages. Click to stop using it automatically."
+msgstr "新規メッセージのデフォルト設定です。クリックすることで、自動での仕様を停止できます。"
 
 #: src/signature-editor.vala:201
 msgid "Use as the default for new messages from this account"
@@ -2555,7 +2555,7 @@ msgstr "Letterで使用されているメール、カレンダー、連絡先の
 
 #: src/dependency-page.vala:116
 msgid "Microsoft Graph backends"
-msgstr "Microsoft Graph backends"
+msgstr "Microsoft Graphバックエンド"
 
 #: src/dependency-page.vala:118
 msgid ""
