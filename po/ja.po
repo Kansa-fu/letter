@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: letter 1.0.0-rc.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-09-25 16:50+0200\n"
-"PO-Revision-Date: 2026-10-12 16:54+0900\n"
-"Last-Translator: Kansa_fu\n"
+"PO-Revision-Date: 2026-10-15 18:24+0900\n"
+"Last-Translator: Kansa_fu <>\n"
 "Language-Team: Japanese\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -172,7 +172,7 @@ msgstr "全員に返信"
 
 #: src/application.vala:455 src/window.vala:10030 src/message-reader.vala:1214
 msgid "Forward"
-msgstr "次へ"
+msgstr "転送"
 
 #: src/application.vala:456 src/application.vala:525 src/window.vala:353
 #: src/window.vala:6522 src/window.vala:10038 src/window.vala:10104
@@ -1122,7 +1122,7 @@ msgstr "私から"
 
 #: src/conversation.vala:833
 msgid "Forwarded"
-msgstr "転送"
+msgstr "転送済み"
 
 #: src/conversation.vala:836
 msgid "Sent"
@@ -2289,7 +2289,7 @@ msgid "The image could not be opened."
 msgstr "画像を開くことができませんでした。"
 
 #: src/utils.vala:1653
-#, fuzzy, c-format
+#, c-format
 msgid "On %s, %s wrote"
 msgstr "%sに、%sが書きました"
 
@@ -2587,8 +2587,8 @@ msgid ""
 "Spell checking in the compose editor. Install Hunspell plus a dictionary for "
 "your language."
 msgstr ""
-"作成エディタでのスペルチェックです。Hunspellと、お使いの言語に合わせた辞書の"
-"辞書をインストールしてください。"
+"作成エディタでのスペルチェックです。Hunspellと、お使いの言語に合わせた辞書を"
+"インストールしてください。"
 
 #: src/dependency-page.vala:142
 msgid "Sushi"
